@@ -76,4 +76,4 @@ The final model was also used for real-time facial expression recognition throug
 
 ## SDAIA Academy GitHub Repository
 
-https://github.com/OmarAlanazi00/FER2013-Emotion-Recognition
+https://github.com/SDAIAAcademy
